@@ -1,5 +1,5 @@
-<h1 align="center"> Hello! Welcome to my GitHub profile! </h1> 
-<h2 My name Is Alicia and I'm a Aerospace Engineering Student! 🚀 </h2>
+## Hello! Welcome to my GitHub profile!
+### My name Is Alicia and I'm a Aerospace Engineering Student! 🚀 
 👩🏽‍🚀 she/her 
 *mini bio
 
