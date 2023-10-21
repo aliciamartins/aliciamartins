@@ -1,5 +1,5 @@
-# Hello! Welcome to my GitHub profile
-## My name Is Alicia and I'm a Aerospace Engineering Student 
+### Hello! Welcome to my GitHub profile
+### My name Is Alicia and I'm a Aerospace Engineering Student 
 
 <!--
 **aliciamartins/aliciamartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
