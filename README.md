@@ -2,7 +2,7 @@
 ### My name Is Alicia and I'm a Aerospace Engineering Student! 🚀
 👩🏽‍🚀 she/her
 
-I’m currently working on 
+I’m currently working on </br>
 🛰️ A CubeSat Project
 🌪️ Scientific research in martian aeolic
 🚀 
