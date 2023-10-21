@@ -1,5 +1,6 @@
-## Hello! Welcome to my GitHub profile
-### My name Is Alicia and I'm a Aerospace Engineering Student!
+## Hello! Welcome to my GitHub profile!
+### My name Is Alicia and I'm a Aerospace Engineering Student! 🚀
+🛰️🔭🛸👩🏽‍🚀🌌✈️
 
 <!--
 **aliciamartins/aliciamartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div>
-<a href="https://github.com/aliciamartins">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?aliciamartins&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?aliciamartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
