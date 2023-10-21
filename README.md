@@ -3,9 +3,9 @@
 👩🏽‍🚀 she/her
 
 I’m currently working on </br>
-🛰️ A CubeSat Project
-🌪️ Scientific research in martian aeolic
-🚀 
+🛰️ A CubeSat Project </br>
+🌪️ Scientific research in martian aeolic </br>
+🚀  </br>
 
 
 
