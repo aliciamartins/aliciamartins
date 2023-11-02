@@ -5,7 +5,7 @@
 
 I’m currently working on </br>
 ⚡ Scientific research in martian aeolic </br>
-🛰️ A CubeSat Project </br>
+🛰️ A CubeSat Project - IEEE RAS UFABC </br>
 🚀  </br>
 
 
