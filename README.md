@@ -11,7 +11,7 @@
           🚀  </br></br>
 </div>
           
-<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="200" style="float:right"/>
+<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="350" float= "right"/>
           
 Technologies and Tools I'm learning
 
