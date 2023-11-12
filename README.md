@@ -1,10 +1,13 @@
-## Hello! Welcome to my head 🧠
-#### I'm Alicia and I'm a Aerospace Engineering Student. 
+<h1 style="text-align:center">Hello! Welcome to my head 🧠</h1> 
+### I'm Alicia and I'm a Aerospace Engineering Student. 
 
 I’m currently working on </br>
-⚡ Scientific research in martian aeolic </br>
+🌱 Scientific research in martian aeolic </br>
 🛰️ A CubeSat Project - IEEE RAS UFABC </br>
-🚀  </br>
+🚀  </br></br>
+
+
+![octocat-1697854730390](https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9) 
 
 
 Technologies and Tools I'm learning
@@ -15,7 +18,7 @@ Technologies and Tools I'm learning
 
 
 
-![octocat-1697854730390](https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9) width="200"
+
 
 
 <!--
