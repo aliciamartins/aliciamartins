@@ -1,5 +1,5 @@
 <center>
-          <h1 style="text-align:center">Hello! Welcome to my head 🧠</h1> 
+          <h1 style="align:center">Hello! Welcome to my head 🧠</h1> 
 </center>
 <h3>I'm Alicia and I'm a Aerospace Engineering Student.</h3>  
 
