@@ -1,4 +1,24 @@
 <!DOCTYPE html>
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 25%;
+    max-height:15%;
+    float: left;
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20%;
+    float: left;
+  }
+  </style>
 <center>
           <h1 align="center">Hello! Welcome to my head 🧠</h1> 
 </center>
