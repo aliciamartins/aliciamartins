@@ -1,5 +1,5 @@
-## Hello! I'm Alicia
-#### A Aerospace Engineering Student. 
+## Hello! Welcome to my head 🧠
+#### I'm Alicia and I'm a Aerospace Engineering Student. 
 
 I’m currently working on </br>
 ⚡ Scientific research in martian aeolic </br>
