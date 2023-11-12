@@ -4,15 +4,16 @@
 </center>
 <h3>I'm Alicia and I'm a Aerospace Engineering Student.</h3>  
 
-<div align="left">
-          I’m currently working on </br>
-          🌱 Scientific research in martian aeolic </br>
-          🛰️ A CubeSat Project - IEEE RAS UFABC </br>
-          🚀  </br></br>
-</div>
-          
-<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="350" align="right"/>
-          
+<div>
+          <div align="left">
+                    I’m currently working on </br>
+                    🌱 Scientific research in martian aeolic </br>
+                    🛰️ A CubeSat Project - IEEE RAS UFABC </br>
+                    🚀  </br></br>
+          </div>
+                    
+          <img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="350" align="right"/>
+</div>         
 Technologies and Tools I'm learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/> 
