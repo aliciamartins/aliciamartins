@@ -3,14 +3,14 @@
 <h3>I'm Alicia and I'm a Aerospace Engineering Student.</h3>  
 
 <div>
-<span align="left">
+<span>
           I’m currently working on </br>
           🌱 Scientific research in martian aeolic </br>
           🛰️ A CubeSat Project - IEEE RAS UFABC </br>
           🚀  </br></br>
 </span>
                     
-<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="300" align="right"/>
+<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="300"/>
 </div>     
 
 Technologies and Tools I'm learning
