@@ -13,7 +13,7 @@
 <img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="300" align="right"/>
 </div>     
 
-</br>
+</br></br></br></br></br></br>
 
 Technologies and Tools I'm learning
 
