@@ -4,7 +4,7 @@
 </center>
 <h3>I'm Alicia and I'm a Aerospace Engineering Student.</h3>  
 
-<div style="text-align: left">
+<div align="left">
           I’m currently working on </br>
           🌱 Scientific research in martian aeolic </br>
           🛰️ A CubeSat Project - IEEE RAS UFABC </br>
