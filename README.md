@@ -1,7 +1,6 @@
-## Hello! Welcome to my GitHub profile!
-### My name Is Alicia and I'm a Aerospace Engineering Student!  
+## Hello there!  
+My name is Alicia and I'm a Aerospace Engineering Student. 
 👩🏽‍🚀 she/her 
-*mini bio
 
 I’m currently working on </br>
 ⚡ Scientific research in martian aeolic </br>
