@@ -5,7 +5,7 @@
 <div>
 <img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="300" align="right"/>
 <span>
-          <h5>I’m currently working on </h5></br>
+          <h4>I’m currently working on </h4></br>
           🌱 Scientific research in martian aeolic </br>
           🛰️ A CubeSat Project - IEEE RAS UFABC </br>
           🚀  </br></br>
