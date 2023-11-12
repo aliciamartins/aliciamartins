@@ -1,5 +1,7 @@
-<h1 style="text-align:center">Hello! Welcome to my head 🧠</h1> 
-### I'm Alicia and I'm a Aerospace Engineering Student. 
+<center>
+          <h1 style="text-align:center">Hello! Welcome to my head 🧠</h1> 
+</center>
+<h3>I'm Alicia and I'm a Aerospace Engineering Student.</h3>  
 
 I’m currently working on </br>
 🌱 Scientific research in martian aeolic </br>
