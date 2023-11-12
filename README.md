@@ -1,30 +1,8 @@
 <!DOCTYPE html>
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  img {
-    max-width: 25%;
-    max-height:15%;
-    float: left;
-  }
-  
-  .text {
-    font-size: 20px;
-    padding-left: 20px;
-    padding-top: 20%;
-    float: left;
-  }
-  </style>
-<center>
-          <h1 align="center">Hello! Welcome to my head 🧠</h1> 
-</center>
+<h1 align="center">Hello! Welcome to my head 🧠</h1> 
 <h3>I'm Alicia and I'm a Aerospace Engineering Student.</h3>  
 
-<div>
+<div display="flex" align-items= "center" justify-content= "center">
 <div align="left">
           I’m currently working on </br>
           🌱 Scientific research in martian aeolic </br>
@@ -32,7 +10,7 @@
           🚀  </br></br>
 </div>
                     
-<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" align="right"/>
+<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/a93c7719-9d7d-4eca-b99b-a93e84b0b2c9" height="300" align="right"/>
 </div>     
 Technologies and Tools I'm learning
 
