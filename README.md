@@ -16,11 +16,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/> 
           
+</br></br>
 
-
-
-
-
+[![card](https://github-readme-stats.vercel.app/api?username=aliciamartins&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamartins&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) </br>
 
 
 <!--
