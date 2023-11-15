@@ -6,10 +6,11 @@
 <div>
 <img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/f6ed5666-42fa-4902-946f-c4b0b8546b0e" height="300" align="right"/>
 <span>
-          <h4>I’m currently working on </h4>
+          <h4>I’m currently... </h4>
           🚀  </br>
-          🛰️ CubeSat Project by IEEE RAS UFABC </br>
-          🪐 Scientific research in martian aeolic </br>
+          🛰️ In a CubeSat Project by IEEE RAS UFABC </br>
+          🪐 Doing an Scientific research in martian aeolic </br>
+          👾 Studying DevOps 
 </span>
 </div>     
 <h4>Technologies and Tools I'm learning</h4>
