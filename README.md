@@ -2,22 +2,21 @@
 <h1 align="center">Hello! Welcome to my head 🧠</h1> 
 <h3>About me 🚀</h3>  
 <p>
-          I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! </br> </br>
-          🚀 A Propulsion Member at UFABC Rocket Design </br>
-          🛰️ In a CubeSat Project by IEEE RAS UFABC </br>
-          🪐 Doing an Scientific Research in martian aeolic </br>
+          UFABC Rocket Design | IEEE RAS UFABC | Scientific Researcher </br>
+          I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! I'm also a Linux enthusiast and a radioamateur </br> 
 </p>
 
 <div>
 <img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/f6ed5666-42fa-4902-946f-c4b0b8546b0e" height="300" align="right"/>
 <span>
-          <h4>I’m currently... </h4>
+          <h4>Technologies and Tools I'm learning</h4>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/> 
 
 </span>
 </div>     
-<h4>Technologies and Tools I'm learning</h4>
+<h4>...</h4>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/> 
           
 </br></br>
 
