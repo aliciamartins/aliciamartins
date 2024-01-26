@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <h1 align="center">Hello! Welcome to my head 🧠</h1> 
-<h3>Call me Alicia! I'm a Aerospace Engineering Student! 🚀</h3>  
-<p>...</p>
+<h3>About me 🚀</h3>  
+<p>
+          I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! </br> </br>
+          🚀 A Propulsion Member at UFABC Rocket Design </br>
+          🛰️ In a CubeSat Project by IEEE RAS UFABC </br>
+          🪐 Doing an Scientific Research in martian aeolic </br>
+</p>
 
 <div>
 <img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/f6ed5666-42fa-4902-946f-c4b0b8546b0e" height="300" align="right"/>
 <span>
           <h4>I’m currently... </h4>
-          🚀 A Propulsion Trainee Member at UFABC Rocket Design </br>
-          🛰️ In a CubeSat Project by IEEE RAS UFABC </br>
-          🪐 Doing an Scientific Research in martian aeolic </br>
+
 </span>
 </div>     
 <h4>Technologies and Tools I'm learning</h4>
