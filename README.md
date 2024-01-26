@@ -9,12 +9,17 @@
 <div>
 <img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/f6ed5666-42fa-4902-946f-c4b0b8546b0e" height="300" align="right"/>
 <span>
-          <h3>Technologies and Tools I'm learning</h3>
+          <h3>Technologies and Tools I work with</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/> 
 
 </span>
 </div>     
+
+<h3>Orion Project</h3>
+
+<h3>Martian Aeolic</h3>
+
 <h3>...</h3>
 
           
