@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <h1 align="center">Hello! Welcome to my head 🧠</h1> 
-<h3>About me 🚀</h3>  
+<h3>About me ⚡</h3>  
 <p>
           UFABC Rocket Design | IEEE RAS UFABC | Scientific Researcher </br>
-          I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! I'm also a Linux enthusiast and a radioamateur </br> 
+          🚀 I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! I'm also a Linux enthusiast and a radioamateur </br> 
 </p>
 
 <div>
@@ -16,9 +16,9 @@
 </span>
 </div>     
 
-<h3>Orion Project</h3>
+<h3>🛰️ Orion Project</h3>
 
-<h3>Martian Aeolic</h3>
+<h3>Martian Aeolic 🌱</h3>
 
 <h3>...</h3>
 
