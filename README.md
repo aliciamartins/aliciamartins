@@ -34,7 +34,7 @@
           
 </br></br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=aliciamartins&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![card](https://github-readme-stats.vercel.app/api?username=aliciamartins&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) </br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamartins&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) </br>
 
 
