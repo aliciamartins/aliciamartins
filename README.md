@@ -7,7 +7,7 @@
 </p>
 
 <div>
-<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/f6ed5666-42fa-4902-946f-c4b0b8546b0e" height="300" align="right"/>
+<img src="https://github.com/aliciamartins/aliciamartins/assets/82853104/f6ed5666-42fa-4902-946f-c4b0b8546b0e" height="200" align="right"/>
 <span>
           </br>
           <h3>Technologies and Tools I'm learning and work with</h3>
