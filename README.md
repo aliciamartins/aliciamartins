@@ -29,7 +29,7 @@
 
 </br>
 
-<h3>...</h3>
+<h3>🚀 Rocket Design</h3>
 
           
 </br></br>
@@ -43,7 +43,7 @@
 
 Here are some ideas to get you started:
 
-🚀🛰️🔭🛸👩🏽‍🚀🌌✈️
+🚀🛰️🔭🛸👩🏽‍🚀🌌✈️🪐
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
