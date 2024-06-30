@@ -2,8 +2,8 @@
 <h1 align="center">Hello! Welcome to my head 🧠</h1> 
 <h3>About me ⚡</h3>  
 <p>
-          UFABC Rocket Design | IEEE RAS UFABC | Scientific Researcher </br>
-          🚀 I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! </br> 
+          UFABC Rocket Design | Scientific Researcher 🚀 </br>
+          👩🏽‍🚀 I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! </br> 
 </p>
 
 <div>
@@ -21,16 +21,6 @@
 </div> 
 </br> </br> 
 
-<h3>Martian Aeolic 🪐</h3>
-<p> ... </p></br>
-https://github.com/aliciamartins/Mars-undergraduate-research.git
-
-</br>
-
-<h3>🚀 Rocket Design</h3>
-
-          
-</br></br>
 
 [![card](https://github-readme-stats.vercel.app/api?username=aliciamartins&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) </br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamartins&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) </br>
