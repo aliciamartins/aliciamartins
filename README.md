@@ -3,7 +3,7 @@
 <h3>About me ⚡</h3>  
 <p>
           UFABC Rocket Design | IEEE RAS UFABC | Scientific Researcher </br>
-          🚀 I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! I'm also a Linux enthusiast and a radioamateur! </br> 
+          🚀 I'm an aerospace engineering student who likes to always be immersed in technology and get involved in different projects that involve engineering, programming and creativity! </br> 
 </p>
 
 <div>
@@ -20,10 +20,6 @@
 </span>
 </div> 
 </br> </br> 
-
-<h3>🛰️ Orion Project</h3>
-
-</br>
 
 <h3>Martian Aeolic 🪐</h3>
 <p> ... </p></br>
